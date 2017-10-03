@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: winstonhoseadriggins/amirsoulfood # Path to your Github repository
+  branch: master # Branch to update
+
+media_folder: "src/img/gallery"
+
+collections:
+  - name: food
+    label: "Food Item"
+    folder: "site/content/food"
+    create: true
+    fields:
+      - {label: "Name of Item", name: "title", widget: "string"}
+      - {label: "Supported Meals", name: "categories", widget: "list", default: ["lunch","dinner"]}
+      - {label: "Ingredients/Description", name: "description", widget: "text"}
+      - {label: "Type of Food", name: "type", widget: "string", default: "raw bar"}
+      - {label: "Price", name: "price", widget: "string"}
