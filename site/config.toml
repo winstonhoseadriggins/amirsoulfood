@@ -1,11 +1,21 @@
-baseurl = "/"
+baseurl = "https://winstonhoseadriggins.github.io/amirsoulfood/"
 languageCode = "en-us"
-title = "Tasty Licks"
+title = "AMIR`S SOUL FOOD"
 
 [params]
-  description = "An example website for restaurants built by [@eliwilliamson](https://github.com/eliwilliamson) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
+  description = "AMIR`S would like to THANK YOU for your patronage"
 
 [[menu.main]]
+    name = "Food"
+    url  = "/food"
+    weight = 1
+
+[[menu.main]]
+    name = "Drinks"
+    url  = "/drinks"
+    weight = 2
+
+ [[menu.main]]
     name = "About"
     url  = "/about"
-    weight = 1
+    weight = 3
