@@ -1,4 +1,4 @@
----
++++
 title: Whiting Fish
 categories:
   - lunch
@@ -8,7 +8,7 @@ description:
   Vegetable Oil
 type: Seafood
 price: '13'
----
++++
 
 
 

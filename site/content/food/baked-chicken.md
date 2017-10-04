@@ -1,4 +1,4 @@
----
++++
 title: 'Baked Chicken '
 categories:
   - lunch
@@ -6,5 +6,5 @@ categories:
 description: 'Juicy, Succulent Baked Chicken Quarters'
 type: Poultry
 price: '15'
----
++++
 
