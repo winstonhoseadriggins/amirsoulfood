@@ -3,12 +3,13 @@ title: Whiting Fish
 categories:
   - lunch
   - dinner
-description: 
+description: >-
   Fresh Whiting Fillets breaded with Amirs Special Seasoning Blend Fried in
   Vegetable Oil
 type: Seafood
 price: '13'
 ---
+
 
 
 
