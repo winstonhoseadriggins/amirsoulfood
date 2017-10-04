@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "AMIR ORIGINAL SOUL FOOD"
+title = "AMIR`S SOUL FOOD"
 
 [params]
   description = "AMIR`S would like to THANK YOU for your patronage"
@@ -19,3 +19,8 @@ title = "AMIR ORIGINAL SOUL FOOD"
     name = "About"
     url  = "/about"
     weight = 3
+
+[[menu.main]]
+    name = "Gallery"
+    url  = "/gallery"
+    weight = 4
